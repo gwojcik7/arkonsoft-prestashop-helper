@@ -1,0 +1,20 @@
+{
+    "name": "arkonsoft/prestamodulehelper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arkonsoft",
+            "email": "info@arkonsoft.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">= 7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arkonsoft\\": "src/"
+        }
+    }
+}
